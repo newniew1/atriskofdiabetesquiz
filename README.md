@@ -1,6 +1,4 @@
-# Cozy Cabin Cafe - A personality quiz
-Welcome to the repo for Cozy Cabin Cafe! This project takes users through a 6-question personality quiz, which assigns them a cozy winter drink based on their answers.
-## Try it now!
-<https://korevillo.github.io/cozycabincafe>
-## Attributions
-I drew all the illustrations! Please refrain from using these images without my permission.
+# cozycabincafe
+ We would like to express our sincere gratitude to the original creators of this diabetes risk assessment for providing a valuable framework that has allowed us to successfully conduct this research. This assessment has been developed solely for academic purposes, with no intention of commercial gain.
+ 
+ Prepared by: Katrina Orevillo https://github.com/korevillo/
